@@ -19,6 +19,8 @@ Skills and Wants
  -  Visioneering
 
 #### Experience:
+ -  Front End Web Development
+ -  Database Design and Administration
  -  Helpdesk Management 
  -  Warehouse Industry 
  -  Real Estate Investment 
